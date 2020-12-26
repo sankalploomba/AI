@@ -1,4 +1,5 @@
 :-include(gates).
+:-include(decoders_encoder).
 	
 %% MULTIPLEXER 2x1								A,B are inputs, S is selector (also input), Z is output
 mux_2x1(A,B,S,Z):-
