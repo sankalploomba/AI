@@ -96,5 +96,3 @@ demux_1x8(I,S0,S1,S2,O0,O1,O2,O3,O4,O5,O6,O7):-
 	and(I,T5,O5),
 	and(I,T6,O6),
 	and(I,T7,O7).
-
-%% MULTI-BIT ADDER
